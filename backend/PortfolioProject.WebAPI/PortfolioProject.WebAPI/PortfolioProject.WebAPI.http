@@ -1,0 +1,6 @@
+@PortfolioProject.WebAPI_HostAddress = http://localhost:5009
+
+GET {{PortfolioProject.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
